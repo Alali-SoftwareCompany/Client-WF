@@ -1,0 +1,16 @@
+C:\Users\Adam\Desktop\ClientWF\ClientWF\bin\Debug\ClientWF.exe.config
+C:\Users\Adam\Desktop\ClientWF\ClientWF\bin\Debug\ClientWF.exe
+C:\Users\Adam\Desktop\ClientWF\ClientWF\bin\Debug\ClientWF.pdb
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.Form1.resources
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.Properties.Resources.resources
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.exe
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.pdb
+C:\Users\Adam\Desktop\ClientWF\ClientWF\obj\Debug\ClientWF.Contacts.resources
+D:\projekty\ChatProject\Client-WF\ClientWF\ClientWF\bin\Debug\ClientWF.exe.config
+D:\projekty\ChatProject\Client-WF\ClientWF\ClientWF\obj\Debug\ClientWF.exe
+D:\projekty\ChatProject\Client-WF\ClientWF\ClientWF\obj\Debug\ClientWF.pdb
+D:\projekty\ChatProject\Client-WF\Client-WF\ClientWF\ClientWF\bin\Debug\ClientWF.exe.config
+D:\projekty\ChatProject\Client-WF\Client-WF\ClientWF\ClientWF\obj\Debug\ClientWF.exe
+D:\projekty\ChatProject\Client-WF\Client-WF\ClientWF\ClientWF\obj\Debug\ClientWF.pdb
